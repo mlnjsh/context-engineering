@@ -604,3 +604,34 @@ If this resource helped you, please consider giving it a star.
 [![Star History Chart](https://api.star-history.com/svg?repos=mlnjsh/context-engineering&type=Date)](https://star-history.com/#mlnjsh/context-engineering&Date)
 
 </div>
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/simonw">
+        <img src="https://github.com/simonw.png" width="80px;" alt="Simon Willison"/><br />
+        <sub><b>Simon Willison</b></sub>
+      </a><br />
+      <sub>LLM context & prompt engineering expert</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/brexhq">
+        <img src="https://github.com/brexhq.png" width="80px;" alt="Brex"/><br />
+        <sub><b>Brex</b></sub>
+      </a><br />
+      <sub>Prompt engineering best practices</sub>
+    </td>
+  </tr>
+</table>
